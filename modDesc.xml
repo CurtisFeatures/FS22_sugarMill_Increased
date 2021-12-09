@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+     <author>CURATOFARMS</author>
+    <version>1.0</version>
+
+    <title>
+        <en>Sugar Mill (Increased Speed)</en>
+        <de>Zuckermühle (Erhöhte Geschwindigkeit)</de>
+    </title>
+
+    <description>
+         <en>In game Sugar Mill but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Zuckermühle, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+    </description>
+
+    <iconFilename>$data/placeables/lizard/productionPoints/sugarMill/store_sugarMill.png</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="sugarMill.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_modded_sugarMill">
+        <en>Sugar Mill (Increased Speed)</en>
+        <de>Zuckermühle (Erhöhte Geschwindigkeit)</de>
+        </text>
+        <text name="function_sugarMill">
+         <en>In game Sugar Mill but with 4x cycles and increased output storage</en>
+        <de>Im Spiel Zuckermühle, aber mit 4x Zyklen und erhöhtem Output-Speicher</de>
+        </text>
+    </l10n>
+
+
+</modDesc>
